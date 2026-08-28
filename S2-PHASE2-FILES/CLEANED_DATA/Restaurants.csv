@@ -1,0 +1,551 @@
+Restaurant_ID,Region,Avg_Preparation_Time_Minutes,Avg_Rating,Order_Capacity_Per_Day,Restaurant_Name,Cuisine_Type
+R001,Metropolitan,27,4.64,114,Restaurant_900,Fast Food
+R002,Semi-Urban,40,4.1,1,Restaurant_1003,Italian
+R003,Urban,24,4.71,30,Restaurant_671,Indian
+R004,Urban,23,4.71,32,Restaurant_620,Fast Food
+R005,Urban,25,4.72,28,Restaurant_926,Fast Food
+R006,Metropolitan,27,4.62,120,Restaurant_997,Italian
+R007,Semi-Urban,40,4.6,1,Restaurant_745,Italian
+R008,Urban,20,4.73,9,Restaurant_938,Indian
+R009,Metropolitan,26,4.65,119,Restaurant_451,Indian
+R010,Urban,22,4.64,28,Restaurant_439,Chinese
+R011,Metropolitan,29,4.61,120,Restaurant_667,Fast Food
+R012,Urban,29,4.55,8,Restaurant_597,Fast Food
+R013,Urban,24,4.68,33,Restaurant_411,Chinese
+R014,Urban,24,4.62,39,Restaurant_381,Fast Food
+R015,Metropolitan,28,4.6,28,Restaurant_1231,Indian
+R016,Metropolitan,22,4.62,1,Restaurant_76,Chinese
+R017,Urban,22,4.59,9,Restaurant_774,Italian
+R018,Metropolitan,29,4.7,25,Restaurant_350,Fast Food
+R019,Metropolitan,27,4.54,121,Restaurant_415,Fast Food
+R020,Metropolitan,26,4.57,32,Restaurant_874,Indian
+R021,Metropolitan,39,4.62,1,Restaurant_174,Italian
+R022,Urban,21,4.78,10,Restaurant_1022,Chinese
+R023,Metropolitan,29,4.63,30,Restaurant_1204,Italian
+R024,Metropolitan,30,4.62,1,Restaurant_265,Chinese
+R025,Metropolitan,36,4.8,1,Restaurant_192,Italian
+R026,Urban,22,4.5,2,Restaurant_333,Italian
+R027,Urban,26,4.55,40,Restaurant_1097,Italian
+R028,Metropolitan,31,4.63,58,Restaurant_1138,Chinese
+R029,Metropolitan,26,4.61,29,Restaurant_1210,Indian
+R030,Metropolitan,31,4.67,28,Restaurant_1007,Indian
+R031,Semi-Urban,40,4.7,2,Restaurant_1108,Chinese
+R032,Urban,24,4.66,27,Restaurant_911,Italian
+R033,Urban,20,4.73,6,Restaurant_940,Fast Food
+R034,Metropolitan,28,4.68,20,Restaurant_352,Italian
+R035,Metropolitan,28,4.72,29,Restaurant_964,Italian
+R036,Metropolitan,20,4.62,1,Restaurant_244,Italian
+R037,Metropolitan,20,4.62,1,Restaurant_49,Fast Food
+R038,Metropolitan,40,4.62,1,Restaurant_113,Chinese
+R039,Metropolitan,20,4.62,1,Restaurant_43,Italian
+R040,Metropolitan,28,4.62,2,Restaurant_155,Chinese
+R041,Semi-Urban,40,4,1,Restaurant_467,Indian
+R042,Metropolitan,33,4.62,1,Restaurant_231,Italian
+R043,Metropolitan,26,4.67,118,Restaurant_676,Chinese
+R044,Metropolitan,21,4.62,1,Restaurant_286,Chinese
+R045,Urban,20,4.62,1,Restaurant_63,Chinese
+R046,Metropolitan,28,4.62,2,Restaurant_290,Fast Food
+R047,Urban,22,4.65,28,Restaurant_422,Italian
+R048,Urban,23,4.65,34,Restaurant_485,Fast Food
+R049,Urban,23,4.77,33,Restaurant_615,Chinese
+R050,Metropolitan,28,4.66,116,Restaurant_553,Fast Food
+R051,Urban,26,4.62,1,Restaurant_170,Chinese
+R052,Urban,22,4.72,40,Restaurant_554,Fast Food
+R053,Urban,20,4.63,33,Restaurant_376,Fast Food
+R054,Metropolitan,24,4.62,1,Restaurant_296,Indian
+R055,Urban,24,4.75,2,Restaurant_764,Italian
+R056,Metropolitan,27,4.63,29,Restaurant_884,Fast Food
+R057,Metropolitan,40,4.62,1,Restaurant_208,Chinese
+R058,Urban,21,4.68,40,Restaurant_1106,Indian
+R059,Semi-Urban,40,4.25,2,Restaurant_1000,Chinese
+R060,Metropolitan,26,4.63,121,Restaurant_513,Indian
+R061,Semi-Urban,40,4.9,1,Restaurant_371,Chinese
+R062,Urban,20,4.9,1,Restaurant_78,Italian
+R063,Urban,24,4.67,49,Restaurant_409,Indian
+R064,Urban,30,3.5,1,Restaurant_86,Indian
+R065,Metropolitan,22,5,1,Restaurant_332,Fast Food
+R066,Metropolitan,27,4.67,133,Restaurant_1084,Chinese
+R067,Metropolitan,20,4.8,1,Restaurant_277,Chinese
+R068,Semi-Urban,40,4.62,1,Restaurant_123,Italian
+R069,Metropolitan,25,4.62,1,Restaurant_209,Chinese
+R070,Urban,21,4.73,32,Restaurant_442,Indian
+R071,Urban,25,4.67,28,Restaurant_802,Italian
+R072,Metropolitan,27,4.62,28,Restaurant_939,Indian
+R073,Metropolitan,27,4.62,112,Restaurant_708,Fast Food
+R074,Urban,21,4.55,7,Restaurant_358,Italian
+R075,Metropolitan,29,4.58,22,Restaurant_777,Italian
+R076,Semi-Urban,40,5,1,Restaurant_706,Chinese
+R077,Urban,25,4.62,1,Restaurant_44,Italian
+R078,Metropolitan,27,4.6,112,Restaurant_918,Italian
+R079,Urban,20,4.7,8,Restaurant_778,Indian
+R080,Urban,30,4.64,6,Restaurant_1207,Fast Food
+R081,Urban,20,4.62,1,Restaurant_254,Fast Food
+R082,Metropolitan,28,4.58,29,Restaurant_1050,Italian
+R083,Urban,23,4.69,26,Restaurant_746,Chinese
+R084,Urban,26,4.78,5,Restaurant_752,Italian
+R085,Urban,21,4.7,45,Restaurant_552,Chinese
+R086,Metropolitan,27,4.61,26,Restaurant_1063,Fast Food
+R087,Urban,23,4.77,42,Restaurant_724,Chinese
+R088,Metropolitan,29,4.62,109,Restaurant_803,Italian
+R089,Metropolitan,28,4.73,29,Restaurant_598,Indian
+R090,Metropolitan,30,4.62,1,Restaurant_101,Indian
+R091,Metropolitan,36,4.62,1,Restaurant_210,Fast Food
+R092,Urban,20,4.56,9,Restaurant_1036,Italian
+R093,Semi-Urban,40,4.1,1,Restaurant_478,Indian
+R094,Urban,23,4.66,39,Restaurant_986,Indian
+R095,Urban,21,4.75,33,Restaurant_494,Italian
+R096,Metropolitan,40,4.4,1,Restaurant_198,Fast Food
+R097,Urban,22,4.67,9,Restaurant_1179,Italian
+R098,Metropolitan,27,4.62,113,Restaurant_542,Fast Food
+R099,Urban,24,4.71,38,Restaurant_735,Italian
+R100,Metropolitan,28,4.63,133,Restaurant_1090,Italian
+R101,Metropolitan,27,4.66,122,Restaurant_605,Chinese
+R102,Urban,28,4.62,1,Restaurant_128,Chinese
+R103,Urban,25,4.76,10,Restaurant_1060,Italian
+R104,Metropolitan,25,4.67,115,Restaurant_969,Italian
+R105,Urban,30,4.64,7,Restaurant_855,Indian
+R106,Urban,23,4.64,10,Restaurant_1234,Italian
+R107,Semi-Urban,40,3.9,1,Restaurant_413,Chinese
+R108,Metropolitan,27,4.62,1,Restaurant_51,Indian
+R109,Metropolitan,20,4.7,1,Restaurant_70,Italian
+R110,Urban,21,4.7,35,Restaurant_730,Italian
+R111,Urban,29,4.62,1,Restaurant_23,Fast Food
+R112,Urban,22,4.69,37,Restaurant_717,Italian
+R113,Metropolitan,29,4.6,134,Restaurant_826,Indian
+R114,Urban,20,4.62,1,Restaurant_107,Indian
+R115,Metropolitan,40,4.62,2,Restaurant_58,Italian
+R116,Metropolitan,20,5,1,Restaurant_233,Chinese
+R117,Semi-Urban,40,4.45,2,Restaurant_967,Chinese
+R118,Metropolitan,28,4.61,123,Restaurant_380,Italian
+R119,Metropolitan,25,4.61,26,Restaurant_589,Fast Food
+R120,Urban,29,4.58,4,Restaurant_1213,Chinese
+R121,Metropolitan,20,4.65,2,Restaurant_81,Fast Food
+R122,Metropolitan,27,4.67,118,Restaurant_522,Indian
+R123,Urban,20,4.78,6,Restaurant_1238,Indian
+R124,Metropolitan,29,4.59,34,Restaurant_1164,Fast Food
+R125,Urban,21,4.77,8,Restaurant_760,Fast Food
+R126,Metropolitan,25,4.63,27,Restaurant_1131,Fast Food
+R127,Metropolitan,24,4.7,23,Restaurant_363,Fast Food
+R128,Urban,24,4.63,3,Restaurant_947,Chinese
+R129,Metropolitan,26,4.65,112,Restaurant_932,Italian
+R130,Metropolitan,26,4.65,28,Restaurant_858,Chinese
+R131,Semi-Urban,40,4.8,1,Restaurant_617,Fast Food
+R132,Metropolitan,27,4.63,32,Restaurant_1142,Chinese
+R133,Metropolitan,29,4.62,21,Restaurant_771,Chinese
+R134,Metropolitan,20,4.3,2,Restaurant_196,Fast Food
+R135,Urban,20,3.5,1,Restaurant_54,Italian
+R136,Semi-Urban,40,4.4,2,Restaurant_424,Fast Food
+R137,Metropolitan,36,4.62,1,Restaurant_247,Fast Food
+R138,Metropolitan,21,4.62,1,Restaurant_56,Italian
+R139,Metropolitan,20,4.62,2,Restaurant_109,Fast Food
+R140,Metropolitan,23,4.62,1,Restaurant_168,Fast Food
+R141,Metropolitan,28,4.61,113,Restaurant_660,Italian
+R142,Metropolitan,27,4.61,121,Restaurant_738,Fast Food
+R143,Urban,29,4.6,1,Restaurant_270,Chinese
+R144,Urban,22,4.74,35,Restaurant_917,Indian
+R145,Urban,22,4.74,37,Restaurant_818,Indian
+R146,Urban,20,4.59,7,Restaurant_1143,Italian
+R147,Urban,24,4.61,35,Restaurant_673,Italian
+R148,Metropolitan,28,4.6,127,Restaurant_447,Chinese
+R149,Metropolitan,26,4.63,124,Restaurant_382,Chinese
+R150,Urban,24,4.65,44,Restaurant_536,Chinese
+R151,Semi-Urban,40,4.4,2,Restaurant_438,Chinese
+R152,Urban,25,4.78,8,Restaurant_1242,Italian
+R153,Urban,20,4.68,12,Restaurant_861,Indian
+R154,Semi-Urban,40,3.6,2,Restaurant_506,Chinese
+R155,Metropolitan,30,4.66,27,Restaurant_753,Italian
+R156,Urban,24,4.68,38,Restaurant_720,Fast Food
+R157,Metropolitan,28,4.68,20,Restaurant_848,Italian
+R158,Urban,22,4.68,39,Restaurant_622,Indian
+R159,Urban,21,4.59,10,Restaurant_1047,Italian
+R160,Urban,22,4.67,30,Restaurant_787,Italian
+R161,Metropolitan,30,4.63,24,Restaurant_1176,Fast Food
+R162,Urban,22,4.65,13,Restaurant_1058,Fast Food
+R163,Urban,22,4.62,1,Restaurant_243,Italian
+R164,Semi-Urban,40,4.6,1,Restaurant_665,Indian
+R165,Urban,23,4.64,40,Restaurant_996,Italian
+R166,Urban,22,4.73,32,Restaurant_428,Italian
+R167,Urban,20,4.66,8,Restaurant_1209,Italian
+R168,Metropolitan,27,4.64,122,Restaurant_432,Indian
+R169,Metropolitan,20,4.62,2,Restaurant_297,Indian
+R170,Metropolitan,27,4.61,129,Restaurant_621,Fast Food
+R171,Metropolitan,27,4.6,118,Restaurant_529,Indian
+R172,Metropolitan,27,4.68,26,Restaurant_1033,Fast Food
+R173,Metropolitan,27,4.63,124,Restaurant_390,Fast Food
+R174,Urban,26,4.69,37,Restaurant_692,Fast Food
+R175,Urban,21,4.62,1,Restaurant_240,Chinese
+R176,Urban,40,4.62,2,Restaurant_10,Indian
+R177,Metropolitan,36,4.75,2,Restaurant_147,Indian
+R178,Urban,20,4.62,1,Restaurant_275,Chinese
+R179,Semi-Urban,40,4.33,3,Restaurant_985,Chinese
+R180,Urban,23,4.58,31,Restaurant_548,Italian
+R181,Semi-Urban,40,4,1,Restaurant_535,Indian
+R182,Metropolitan,27,4.6,114,Restaurant_934,Chinese
+R183,Urban,20,4.62,1,Restaurant_344,Fast Food
+R184,Urban,23,4.65,35,Restaurant_743,Italian
+R185,Metropolitan,29,4.59,118,Restaurant_654,Chinese
+R186,Metropolitan,28,4.59,116,Restaurant_731,Fast Food
+R187,Urban,26,4.68,29,Restaurant_980,Chinese
+R188,Metropolitan,22,4.65,2,Restaurant_309,Fast Food
+R189,Semi-Urban,40,4.1,1,Restaurant_545,Fast Food
+R190,Metropolitan,28,4.57,111,Restaurant_551,Indian
+R191,Urban,25,4.6,48,Restaurant_825,Fast Food
+R192,Metropolitan,28,4.64,120,Restaurant_700,Fast Food
+R193,Metropolitan,28,4.62,31,Restaurant_1037,Indian
+R194,Metropolitan,20,4.7,1,Restaurant_135,Italian
+R195,Metropolitan,34,4.62,1,Restaurant_218,Italian
+R196,Metropolitan,28,4.65,27,Restaurant_1229,Chinese
+R197,Urban,24,4.68,33,Restaurant_465,Italian
+R198,Metropolitan,27,4.55,29,Restaurant_1191,Italian
+R199,Metropolitan,27,4.61,111,Restaurant_614,Italian
+R200,Metropolitan,33,4.9,1,Restaurant_308,Chinese
+R201,Metropolitan,40,4.62,1,Restaurant_158,Indian
+R202,Metropolitan,40,4.62,1,Restaurant_140,Fast Food
+R203,Metropolitan,27,4.67,125,Restaurant_429,Italian
+R204,Metropolitan,20,4.62,1,Restaurant_306,Fast Food
+R205,Metropolitan,27,4.67,115,Restaurant_710,Indian
+R206,Semi-Urban,40,4.9,2,Restaurant_670,Chinese
+R207,Urban,24,4.67,7,Restaurant_1077,Indian
+R208,Urban,21,4.67,7,Restaurant_1192,Italian
+R209,Metropolitan,21,4.62,1,Restaurant_289,Chinese
+R210,Urban,20,4.62,1,Restaurant_65,Indian
+R211,Metropolitan,27,4.6,23,Restaurant_767,Indian
+R212,Metropolitan,27,4.6,122,Restaurant_741,Fast Food
+R213,Metropolitan,20,4.62,1,Restaurant_321,Italian
+R214,Metropolitan,28,4.66,27,Restaurant_765,Italian
+R215,Metropolitan,20,4.62,1,Restaurant_220,Indian
+R216,Metropolitan,26,4.62,25,Restaurant_567,Indian
+R217,Metropolitan,32,4.7,1,Restaurant_184,Italian
+R218,Metropolitan,26,4.58,108,Restaurant_716,Chinese
+R219,Urban,23,4.72,34,Restaurant_561,Chinese
+R220,Metropolitan,21,4.62,1,Restaurant_163,Chinese
+R221,Metropolitan,26,4.64,121,Restaurant_453,Fast Food
+R222,Metropolitan,40,4.62,1,Restaurant_221,Italian
+R223,Metropolitan,27,4.61,110,Restaurant_1002,Italian
+R224,Metropolitan,33,4.62,1,Restaurant_156,Chinese
+R225,Metropolitan,28,4.64,25,Restaurant_958,Italian
+R226,Metropolitan,28,4.69,31,Restaurant_1150,Indian
+R227,Metropolitan,27,4.63,111,Restaurant_377,Chinese
+R228,Urban,20,4.62,1,Restaurant_294,Italian
+R229,Metropolitan,20,4.5,1,Restaurant_199,Indian
+R230,Urban,24,4.67,11,Restaurant_1010,Indian
+R231,Urban,24,4.66,39,Restaurant_1006,Indian
+R232,Metropolitan,27,4.58,24,Restaurant_361,Indian
+R233,Metropolitan,28,4.66,25,Restaurant_872,Chinese
+R234,Semi-Urban,40,4.7,1,Restaurant_898,Fast Food
+R235,Urban,20,4.62,1,Restaurant_259,Italian
+R236,Semi-Urban,40,4.3,1,Restaurant_464,Chinese
+R237,Metropolitan,29,4.6,122,Restaurant_1125,Chinese
+R238,Urban,25,4.7,8,Restaurant_1043,Chinese
+R239,Semi-Urban,40,4,1,Restaurant_427,Indian
+R240,Urban,25,4.65,15,Restaurant_1015,Fast Food
+R241,Urban,24,4.59,9,Restaurant_1188,Indian
+R242,Metropolitan,29,4.7,1,Restaurant_312,Fast Food
+R243,Metropolitan,32,4.56,28,Restaurant_948,Italian
+R244,Metropolitan,36,4,1,Restaurant_327,Chinese
+R245,Urban,27,4.64,36,Restaurant_919,Indian
+R246,Metropolitan,25,4.7,22,Restaurant_1027,Chinese
+R247,Metropolitan,31,3.8,1,Restaurant_303,Chinese
+R248,Urban,25,4.58,6,Restaurant_599,Fast Food
+R249,Metropolitan,25,4.72,26,Restaurant_575,Indian
+R250,Metropolitan,26,4.54,26,Restaurant_1072,Chinese
+R251,Metropolitan,23,4.62,1,Restaurant_96,Fast Food
+R252,Metropolitan,26,4.57,25,Restaurant_1183,Italian
+R253,Urban,31,4.65,6,Restaurant_881,Italian
+R254,Metropolitan,26,4.62,1,Restaurant_178,Chinese
+R255,Metropolitan,34,4.62,1,Restaurant_31,Chinese
+R256,Urban,21,4.71,40,Restaurant_661,Chinese
+R257,Semi-Urban,40,3.7,1,Restaurant_921,Italian
+R258,Metropolitan,26,4.55,101,Restaurant_798,Fast Food
+R259,Urban,20,4.78,6,Restaurant_1157,Italian
+R260,Urban,23,4.71,30,Restaurant_823,Fast Food
+R261,Metropolitan,32,4.62,1,Restaurant_88,Chinese
+R262,Metropolitan,27,4.63,115,Restaurant_644,Italian
+R263,Urban,20,4.75,6,Restaurant_879,Italian
+R264,Urban,22,4.72,4,Restaurant_1018,Fast Food
+R265,Urban,28,4.62,30,Restaurant_1079,Indian
+R266,Urban,23,4.78,10,Restaurant_849,Chinese
+R267,Urban,25,4.56,40,Restaurant_610,Indian
+R268,Metropolitan,32,4.62,2,Restaurant_323,Fast Food
+R269,Metropolitan,23,4.6,1,Restaurant_266,Chinese
+R270,Urban,20,4.62,1,Restaurant_59,Chinese
+R271,Metropolitan,37,4.62,1,Restaurant_298,Indian
+R272,Urban,22,4.81,12,Restaurant_1137,Italian
+R273,Urban,20,4.63,4,Restaurant_1182,Italian
+R274,Metropolitan,30,4.7,1,Restaurant_328,Chinese
+R275,Urban,23,4.64,40,Restaurant_628,Indian
+R276,Urban,25,4.7,5,Restaurant_1230,Chinese
+R277,Metropolitan,26,4.35,2,Restaurant_331,Chinese
+R278,Urban,29,4.6,1,Restaurant_342,Chinese
+R279,Metropolitan,28,4.64,30,Restaurant_1172,Italian
+R280,Urban,23,4.69,35,Restaurant_701,Indian
+R281,Urban,22,4.71,11,Restaurant_588,Italian
+R282,Metropolitan,27,4.6,103,Restaurant_999,Chinese
+R283,Metropolitan,20,4.7,1,Restaurant_83,Italian
+R284,Urban,20,4.62,1,Restaurant_129,Fast Food
+R285,Metropolitan,26,4.64,117,Restaurant_723,Chinese
+R286,Metropolitan,30,4.6,26,Restaurant_365,Indian
+R287,Metropolitan,27,4.64,121,Restaurant_966,Fast Food
+R288,Metropolitan,27,4.63,122,Restaurant_490,Indian
+R289,Metropolitan,27,5,1,Restaurant_260,Indian
+R290,Metropolitan,26,4.67,121,Restaurant_979,Indian
+R291,Urban,23,4.69,9,Restaurant_582,Indian
+R292,Metropolitan,27,4.6,30,Restaurant_943,Italian
+R293,Semi-Urban,40,4.9,1,Restaurant_594,Italian
+R294,Metropolitan,30,4.5,1,Restaurant_138,Chinese
+R295,Metropolitan,20,5,1,Restaurant_292,Fast Food
+R296,Metropolitan,28,4.59,127,Restaurant_992,Italian
+R297,Urban,37,4.8,1,Restaurant_141,Fast Food
+R298,Urban,22,4.74,9,Restaurant_584,Fast Food
+R299,Urban,22,4.79,19,Restaurant_528,Fast Food
+R300,Metropolitan,30,4.53,106,Restaurant_423,Italian
+R301,Urban,27,4.5,1,Restaurant_139,Italian
+R302,Urban,23,4.67,32,Restaurant_618,Italian
+R303,Semi-Urban,40,4.5,1,Restaurant_901,Chinese
+R304,Urban,23,4.62,1,Restaurant_224,Chinese
+R305,Semi-Urban,40,4.6,1,Restaurant_394,Fast Food
+R306,Metropolitan,28,5,2,Restaurant_274,Italian
+R307,Metropolitan,25,4.63,21,Restaurant_583,Chinese
+R308,Metropolitan,32,4.57,32,Restaurant_1134,Chinese
+R309,Urban,23,4.73,6,Restaurant_865,Fast Food
+R310,Urban,24,4.67,38,Restaurant_613,Fast Food
+R311,Metropolitan,25,4.66,119,Restaurant_736,Indian
+R312,Semi-Urban,40,4.7,1,Restaurant_609,Indian
+R313,Urban,30,4.53,4,Restaurant_1161,Fast Food
+R314,Urban,22,4.56,34,Restaurant_713,Indian
+R315,Urban,28,4.7,3,Restaurant_1228,Chinese
+R316,Semi-Urban,40,4.45,2,Restaurant_527,Italian
+R317,Metropolitan,27,4.65,127,Restaurant_1119,Italian
+R318,Urban,26,4.68,31,Restaurant_649,Indian
+R319,Metropolitan,28,4.63,132,Restaurant_549,Fast Food
+R320,Metropolitan,26,4.63,124,Restaurant_631,Chinese
+R321,Urban,27,4.65,37,Restaurant_533,Italian
+R322,Metropolitan,26,4.65,105,Restaurant_679,Chinese
+R323,Metropolitan,28,4.6,126,Restaurant_903,Fast Food
+R324,Metropolitan,29,4.61,120,Restaurant_650,Fast Food
+R325,Metropolitan,31,4.62,1,Restaurant_39,Italian
+R326,Metropolitan,29,4.62,1,Restaurant_30,Fast Food
+R327,Metropolitan,32,4.62,1,Restaurant_242,Italian
+R328,Metropolitan,26,4.61,117,Restaurant_497,Indian
+R329,Metropolitan,20,4.9,1,Restaurant_136,Fast Food
+R330,Metropolitan,31,4.7,1,Restaurant_310,Indian
+R331,Metropolitan,29,4.63,29,Restaurant_1035,Chinese
+R332,Urban,25,4.63,6,Restaurant_1236,Indian
+R333,Metropolitan,28,4.61,20,Restaurant_1239,Italian
+R334,Metropolitan,28,4.66,27,Restaurant_1235,Chinese
+R335,Metropolitan,29,4.9,1,Restaurant_3,Chinese
+R336,Urban,30,3.5,1,Restaurant_111,Fast Food
+R337,Urban,24,4.58,41,Restaurant_643,Chinese
+R338,Metropolitan,26,4.6,32,Restaurant_1140,Italian
+R339,Metropolitan,27,4.56,114,Restaurant_912,Italian
+R340,Urban,24,4.72,4,Restaurant_1045,Italian
+R341,Urban,24,4.66,42,Restaurant_1103,Chinese
+R342,Urban,23,4.72,32,Restaurant_666,Italian
+R343,Metropolitan,26,5,1,Restaurant_314,Fast Food
+R344,Metropolitan,27,4.63,109,Restaurant_984,Italian
+R345,Metropolitan,38,4.62,1,Restaurant_319,Italian
+R346,Urban,21,4.69,41,Restaurant_425,Chinese
+R347,Metropolitan,29,4.69,121,Restaurant_405,Chinese
+R348,Metropolitan,24,3.5,1,Restaurant_5,Fast Food
+R349,Metropolitan,25,4.62,1,Restaurant_100,Chinese
+R350,Urban,25,4.69,33,Restaurant_682,Chinese
+R351,Urban,21,4.79,13,Restaurant_1075,Chinese
+R352,Urban,22,4.7,38,Restaurant_523,Indian
+R353,Metropolitan,31,4.68,25,Restaurant_868,Italian
+R354,Urban,20,4.63,11,Restaurant_355,Indian
+R355,Urban,22,4.8,33,Restaurant_889,Italian
+R356,Urban,22,4.67,7,Restaurant_590,Italian
+R357,Metropolitan,23,4.62,1,Restaurant_227,Indian
+R358,Semi-Urban,40,4.75,2,Restaurant_739,Indian
+R359,Metropolitan,27,4.62,125,Restaurant_989,Indian
+R360,Urban,22,4.76,38,Restaurant_1094,Italian
+R361,Metropolitan,26,4.63,109,Restaurant_435,Chinese
+R362,Metropolitan,22,4.62,2,Restaurant_66,Fast Food
+R363,Metropolitan,33,3.5,1,Restaurant_67,Indian
+R364,Metropolitan,26,4.66,112,Restaurant_367,Indian
+R365,Metropolitan,20,4.62,1,Restaurant_211,Italian
+R366,Metropolitan,40,4.62,1,Restaurant_12,Chinese
+R367,Urban,23,4.61,33,Restaurant_543,Italian
+R368,Urban,26,4.85,4,Restaurant_875,Italian
+R369,Metropolitan,20,4.62,1,Restaurant_299,Chinese
+R370,Metropolitan,28,4.61,118,Restaurant_477,Italian
+R371,Urban,23,4.66,28,Restaurant_811,Chinese
+R372,Semi-Urban,40,4.2,2,Restaurant_1114,Chinese
+R373,Metropolitan,28,4.6,114,Restaurant_486,Italian
+R374,Urban,22,4.77,7,Restaurant_887,Indian
+R375,Metropolitan,26,4.47,24,Restaurant_1178,Indian
+R376,Metropolitan,27,4.63,114,Restaurant_398,Indian
+R377,Metropolitan,29,4.62,115,Restaurant_712,Italian
+R378,Urban,21,4.7,44,Restaurant_793,Italian
+R379,Metropolitan,30,4.57,37,Restaurant_1160,Italian
+R380,Metropolitan,26,4.61,26,Restaurant_572,Italian
+R381,Metropolitan,27,4.63,117,Restaurant_781,Fast Food
+R382,Metropolitan,32,4.49,22,Restaurant_1074,Fast Food
+R383,Urban,20,4.8,2,Restaurant_273,Italian
+R384,Urban,23,4.69,31,Restaurant_420,Italian
+R385,Urban,20,4.69,12,Restaurant_362,Italian
+R386,Metropolitan,28,4.62,1,Restaurant_237,Chinese
+R387,Urban,25,4.69,42,Restaurant_1115,Chinese
+R388,Metropolitan,29,4.3,2,Restaurant_2,Italian
+R389,Urban,21,4.62,1,Restaurant_6,Fast Food
+R390,Metropolitan,28,4.7,24,Restaurant_1052,Indian
+R391,Urban,20,4.2,1,Restaurant_311,Italian
+R392,Semi-Urban,40,4.62,1,Restaurant_1066,Fast Food
+R393,Metropolitan,26,4.64,23,Restaurant_1065,Fast Food
+R394,Urban,24,4.62,32,Restaurant_636,Fast Food
+R395,Urban,22,4.65,30,Restaurant_651,Indian
+R396,Metropolitan,27,4.61,122,Restaurant_923,Indian
+R397,Urban,20,4.62,1,Restaurant_215,Chinese
+R398,Semi-Urban,40,4.3,1,Restaurant_430,Italian
+R399,Metropolitan,20,4.62,1,Restaurant_27,Italian
+R400,Metropolitan,29,4.54,32,Restaurant_1198,Italian
+R401,Urban,23,4.72,39,Restaurant_514,Italian
+R402,Metropolitan,26,4.68,22,Restaurant_937,Italian
+R403,Urban,31,4.62,6,Restaurant_873,Italian
+R404,Metropolitan,27,4.68,33,Restaurant_1158,Chinese
+R405,Urban,22,4.7,33,Restaurant_519,Fast Food
+R406,Metropolitan,27,4.6,115,Restaurant_846,Chinese
+R407,Semi-Urban,40,4.62,1,Restaurant_573,Chinese
+R408,Metropolitan,26,4.7,27,Restaurant_354,Italian
+R409,Semi-Urban,40,4.4,1,Restaurant_1088,Fast Food
+R410,Urban,22,4.66,33,Restaurant_462,Fast Food
+R411,Metropolitan,27,4.9,1,Restaurant_256,Italian
+R412,Metropolitan,20,4.62,2,Restaurant_291,Fast Food
+R413,Metropolitan,20,4.62,1,Restaurant_25,Chinese
+R414,Urban,20,4.62,1,Restaurant_336,Italian
+R415,Urban,21,4.68,39,Restaurant_479,Italian
+R416,Metropolitan,33,4.62,1,Restaurant_47,Indian
+R417,Metropolitan,28,4.62,1,Restaurant_318,Italian
+R418,Metropolitan,40,4.62,1,Restaurant_106,Chinese
+R419,Metropolitan,29,4.77,29,Restaurant_1241,Fast Food
+R420,Urban,20,4.62,1,Restaurant_55,Fast Food
+R421,Metropolitan,28,4.58,110,Restaurant_560,Fast Food
+R422,Metropolitan,39,4.62,1,Restaurant_213,Indian
+R423,Metropolitan,20,4.62,1,Restaurant_120,Italian
+R424,Urban,25,4.72,34,Restaurant_845,Chinese
+R425,Metropolitan,27,4.57,24,Restaurant_593,Indian
+R426,Semi-Urban,40,4.7,2,Restaurant_558,Indian
+R427,Urban,23,4.9,1,Restaurant_72,Italian
+R428,Metropolitan,27,4.61,123,Restaurant_410,Chinese
+R429,Metropolitan,26,4.64,25,Restaurant_1187,Indian
+R430,Urban,22,4.65,41,Restaurant_847,Italian
+R431,Urban,25,4.77,25,Restaurant_541,Fast Food
+R432,Metropolitan,26,4.62,108,Restaurant_482,Fast Food
+R433,Metropolitan,28,4.57,28,Restaurant_962,Fast Food
+R434,Urban,22,4.69,36,Restaurant_843,Italian
+R435,Metropolitan,29,4.62,27,Restaurant_1206,Chinese
+R436,Urban,22,4.63,36,Restaurant_602,Fast Food
+R437,Metropolitan,28,4.6,128,Restaurant_493,Fast Food
+R438,Metropolitan,30,4.64,23,Restaurant_581,Fast Food
+R439,Metropolitan,28,4.8,1,Restaurant_325,Fast Food
+R440,Semi-Urban,40,4.6,1,Restaurant_982,Italian
+R441,Metropolitan,27,4.56,29,Restaurant_1148,Chinese
+R442,Metropolitan,20,4.9,1,Restaurant_316,Chinese
+R443,Urban,24,4.68,35,Restaurant_722,Indian
+R444,Metropolitan,27,4.64,117,Restaurant_892,Italian
+R445,Urban,24,4.75,6,Restaurant_566,Chinese
+R446,Urban,25,4.59,38,Restaurant_732,Fast Food
+R447,Metropolitan,29,4.37,30,Restaurant_1061,Fast Food
+R448,Urban,26,4.62,6,Restaurant_885,Indian
+R449,Urban,21,4.66,5,Restaurant_1032,Indian
+R450,Metropolitan,20,5,1,Restaurant_60,Fast Food
+R451,Semi-Urban,40,4.6,1,Restaurant_433,Indian
+R452,Urban,22,4.62,10,Restaurant_772,Fast Food
+R453,Metropolitan,20,4.62,1,Restaurant_92,Chinese
+R454,Metropolitan,27,4.64,125,Restaurant_925,Italian
+R455,Urban,21,4.66,39,Restaurant_1112,Italian
+R456,Urban,25,4.76,7,Restaurant_351,Italian
+R457,Metropolitan,28,4.67,114,Restaurant_1005,Indian
+R458,Metropolitan,23,4.9,1,Restaurant_280,Indian
+R459,Urban,23,4.55,38,Restaurant_924,Chinese
+R460,Metropolitan,27,4.62,126,Restaurant_461,Italian
+R461,Metropolitan,29,4.63,27,Restaurant_359,Indian
+R462,Urban,20,4.9,5,Restaurant_851,Chinese
+R463,Metropolitan,26,4.61,113,Restaurant_672,Chinese
+R464,Urban,25,4.71,9,Restaurant_1194,Fast Food
+R465,Metropolitan,27,4.64,127,Restaurant_727,Italian
+R466,Urban,24,4.6,6,Restaurant_1040,Italian
+R467,Semi-Urban,40,4.6,1,Restaurant_532,Italian
+R468,Semi-Urban,40,4.1,1,Restaurant_1196,Indian
+R469,Urban,20,4.62,1,Restaurant_182,Fast Food
+R470,Urban,23,4.64,42,Restaurant_1001,Italian
+R471,Metropolitan,30,4.55,30,Restaurant_1009,Chinese
+R472,Urban,21,4.62,2,Restaurant_110,Chinese
+R473,Metropolitan,27,4.58,123,Restaurant_370,Chinese
+R474,Metropolitan,27,4.6,114,Restaurant_458,Chinese
+R475,Metropolitan,39,3.5,2,Restaurant_239,Fast Food
+R476,Urban,22,4.69,35,Restaurant_899,Chinese
+R477,Urban,23,4.66,36,Restaurant_780,Italian
+R478,Metropolitan,28,4.64,115,Restaurant_634,Chinese
+R479,Metropolitan,34,3.5,1,Restaurant_204,Chinese
+R480,Metropolitan,26,4.57,28,Restaurant_570,Chinese
+R481,Urban,21,4.82,8,Restaurant_867,Italian
+R482,Metropolitan,26,4.62,1,Restaurant_261,Indian
+R483,Metropolitan,28,4.6,116,Restaurant_534,Indian
+R484,Metropolitan,28,4.57,108,Restaurant_718,Fast Food
+R485,Semi-Urban,40,4.7,1,Restaurant_842,Indian
+R486,Metropolitan,40,4.2,1,Restaurant_339,Indian
+R487,Metropolitan,29,4.6,118,Restaurant_714,Indian
+R488,Metropolitan,28,4.61,27,Restaurant_591,Chinese
+R489,Metropolitan,27,4.6,136,Restaurant_910,Indian
+R490,Metropolitan,40,4.65,2,Restaurant_183,Chinese
+R491,Metropolitan,21,4.8,1,Restaurant_137,Italian
+R492,Urban,24,4.62,11,Restaurant_1201,Fast Food
+R493,Urban,30,4.45,6,Restaurant_756,Indian
+R494,Semi-Urban,40,4.8,1,Restaurant_677,Italian
+R495,Metropolitan,20,4.62,1,Restaurant_80,Fast Food
+R496,Semi-Urban,40,4.8,1,Restaurant_538,Italian
+R497,Metropolitan,26,4.75,24,Restaurant_852,Indian
+R498,Urban,23,4.63,31,Restaurant_816,Chinese
+R499,Metropolitan,20,5,1,Restaurant_29,Chinese
+R500,Metropolitan,28,4.5,30,Restaurant_1029,Fast Food
+R501,Urban,20,4.77,28,Restaurant_471,Fast Food
+R502,Semi-Urban,40,5,1,Restaurant_977,Chinese
+R503,Metropolitan,24,4.62,1,Restaurant_165,Indian
+R504,Metropolitan,28,4.62,1,Restaurant_248,Chinese
+R505,Urban,31,4.62,1,Restaurant_307,Italian
+R506,Urban,24,4.68,38,Restaurant_481,Fast Food
+R507,Urban,23,4.68,8,Restaurant_857,Indian
+R508,Urban,25,4.62,36,Restaurant_783,Italian
+R509,Urban,20,4.6,1,Restaurant_346,Indian
+R510,Metropolitan,25,5,1,Restaurant_334,Chinese
+R511,Metropolitan,20,4.62,1,Restaurant_285,Fast Food
+R512,Urban,21,4.81,8,Restaurant_1024,Fast Food
+R513,Urban,20,4.62,1,Restaurant_97,Chinese
+R514,Metropolitan,28,4.68,123,Restaurant_526,Indian
+R515,Semi-Urban,40,4.5,1,Restaurant_813,Italian
+R516,Semi-Urban,40,4.62,1,Restaurant_1111,Fast Food
+R517,Metropolitan,28,4.63,124,Restaurant_812,Indian
+R518,Urban,21,4.66,29,Restaurant_737,Fast Food
+R519,Metropolitan,29,4.6,30,Restaurant_1070,Italian
+R520,Metropolitan,28,4.6,20,Restaurant_1233,Italian
+R521,Metropolitan,20,5,1,Restaurant_302,Indian
+R522,Urban,22,4.74,43,Restaurant_1004,Italian
+R523,Semi-Urban,40,4.7,1,Restaurant_388,Italian
+R524,Urban,32,4.7,1,Restaurant_235,Chinese
+R525,Urban,21,4.7,38,Restaurant_933,Indian
+R526,Urban,20,4.77,9,Restaurant_762,Chinese
+R527,Urban,29,4.62,1,Restaurant_305,Chinese
+R528,Metropolitan,28,4.63,120,Restaurant_907,Italian
+R529,Urban,23,4.62,35,Restaurant_988,Fast Food
+R530,Metropolitan,32,5,1,Restaurant_249,Indian
+R531,Urban,22,4.64,32,Restaurant_814,Chinese
+R532,Urban,20,4.62,1,Restaurant_71,Italian
+R533,Semi-Urban,40,4.62,1,Restaurant_94,Indian
+R534,Metropolitan,28,4.52,24,Restaurant_585,Fast Food
+R535,Urban,37,4.62,1,Restaurant_33,Chinese
+R536,Urban,22,4.65,30,Restaurant_904,Indian
+R537,Urban,22,4.6,40,Restaurant_448,Indian
+R538,Metropolitan,27,4.61,121,Restaurant_445,Fast Food
+R539,Metropolitan,27,4.61,25,Restaurant_886,Italian
+R540,Metropolitan,27,4.63,120,Restaurant_626,Fast Food
+R541,Urban,22,4.69,36,Restaurant_1081,Fast Food
+R542,Metropolitan,23,4.77,3,Restaurant_77,Indian
+R543,Urban,20,4.7,1,Restaurant_84,Chinese
+R544,Urban,25,4.69,8,Restaurant_578,Indian
+R545,Urban,20,4.7,2,Restaurant_82,Chinese
+R546,Urban,22,4.68,35,Restaurant_457,Italian
+R547,Urban,24,4.69,34,Restaurant_931,Chinese
+R548,Urban,22,4.65,33,Restaurant_436,Indian
+R549,Metropolitan,27,4.61,116,Restaurant_629,Indian
+R550,Urban,23,4.68,9,Restaurant_1133,Indian
